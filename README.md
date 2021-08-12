@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Kotlin,Java,golang,mysql
+- 🔭 I’m currently working on Kotlin,Java,golang,mysql 
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on any Android related project
 - 💬 Ask me about  anything related with nadroid development.
