@@ -10,7 +10,8 @@
 <center>
   <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/apiusername=johnsonnyaanga&count_private=true&show_icons=true&theme=dark&layout=compact"/>
+      <td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=johnsonnyaanga&count_private=true&show_icons=true&theme=dark&layout=compact" />
     </td>
   </tr>   
 </table>
