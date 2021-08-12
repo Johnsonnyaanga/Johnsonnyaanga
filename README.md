@@ -11,11 +11,10 @@
   <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=johnsonnyaanga&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-     <!--<td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonnyaanga&hide=html&layout=compact&theme=dark" /></td> -->    
+     <!-<td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonnyaanga&hide=html&layout=compact&theme=dark" /></td> -->    
   </tr>   
 </table>
 </center>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonnyaanga&hide=html)
-![github stats](https://github-readme-stats.vercel.app/api?username=johnsonnyaanga&show_icons=true&count_private=true&line_height=33)
+
 
 
