@@ -15,7 +15,7 @@
           <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=johnsonnyaanga&count_private=true&show_icons=true&theme=dark&layout=compact"/>
        </td>
     <td>
-      <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=johnsonnyaanga&show_icons=true&theme=dark&layout=compact" />
+      <!--<img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=johnsonnyaanga&show_icons=true&theme=dark&layout=compact" /> -->
     </td>
 
   </tr>   
