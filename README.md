@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Kotlin,Java,golang,mysql 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning python Django
 - 👯 I’m looking to collaborate on any Android related project
 - 💬 Ask me about  anything related with nadroid development.
 - 📫 How to reach me:johnsonyaanga@gmail.com
