@@ -5,11 +5,10 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">,I am <b>Android Kotlin/Java</b> developer
 
 
-- 🔭 I’m currently working on Kotlin,Java,golang,mysql 
-- 🌱 I’m currently learning python Django
-- 👯 I’m looking to collaborate on any Android related project
-- 💬 Ask me about  anything related with nadroid development.
-- 📫 How to reach me:johnsonyaanga@gmail.com
+- 🔭 I’m currently working on laravel, php, javascript, Kotlin,Java and relational databases. ready to learn other technologies. 
+- 👯 I’m looking to collaborate on any laravel/Android related project.
+- 💬 Ask me about  anything related with software development.
+- 📫 How to reach me:johnsonyaanga@gmail.com  @johnsonyaanga on twitter
 
 <center>
   <table>
